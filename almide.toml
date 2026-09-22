@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "Fizz brain — classify a comment's surface text into a reaction Emotion (keyword rules). text -> Option[Emotion]"
 
 [dependencies]
-fizz_protocol = { git = "https://github.com/aiviecast/fizz-protocol", tag = "v0.2.0" }
+fizz_protocol = { git = "https://github.com/aiviecast/fizz-protocol", tag = "v0.2.2" }
