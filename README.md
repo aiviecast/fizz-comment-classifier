@@ -10,7 +10,7 @@
 
 ```toml
 [dependencies]
-fizz_comment_classifier = { git = "https://github.com/Aid-On/fizz-comment-classifier", tag = "v0.1.0" }
+fizz_comment_classifier = { git = "https://github.com/aiviecast/fizz-comment-classifier", tag = "v0.1.0" }
 ```
 
 ## Tests
